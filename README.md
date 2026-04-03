@@ -9,7 +9,7 @@ Analyze how Bitcoin market sentiment (Fear/Greed) impacts trader behavior and pe
 ##  Datasets
 
 1. Bitcoin Fear/Greed Index
-2. Historical Trader Data (Hyperliquid)
+2. Historical Trader Data (Hyperliquid) ( As the dataset file is larger in size I have uploaded the zip file. first extract it and then use it.)
 
 ---
 
